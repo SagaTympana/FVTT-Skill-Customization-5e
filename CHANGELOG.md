@@ -4,8 +4,9 @@
 
 ### CHANGED
 
-- Bump minimum core version and core compatible version.
+- Change entityClass to documentClass for Foundry 0.8.6.
 - Remove passive score calculation, as the dnd5e system handles this natively now.
+- Bump minimum core version and core compatible version.
 
 ## [2.3.0] 2021-01-16
 
