@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [2.3.1] 2021-12-28
+
+### CHANGED
+
+- Bump minimum core version and core compatible version.
+- Remove passive score calculation, as the dnd5e system handles this natively now.
+
 ## [2.3.0] 2021-01-16
 
 ### CHANGED

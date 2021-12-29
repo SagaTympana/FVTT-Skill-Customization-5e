@@ -5,20 +5,20 @@
   "systems": [
     "dnd5e"
   ],
-  "version": "2.3.0",
-  "author": "Cole Schultz (cole#9640)",
+  "version": "2.3.1",
+  "author": "SagaTympana (SagaTympana#8143)",
   "esmodules": [
     "skl-customization.js"
   ],
   "styles": [
     "skl-cust-styles.css"
   ],
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.9",
-  "url": "https://github.com/schultzcole/FVTT-Skill-Customization-5e",
-  "manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Skill-Customization-5e/master/module.json",
-  "download": "https://github.com/schultzcole/FVTT-Skill-Customization-5e/archive/2.3.0.zip",
-  "license": "https://github.com/schultzcole/FVTT-Skill-Customization-5e/blob/2.3.0/LICENSE",
-  "readme": "https://github.com/schultzcole/FVTT-Skill-Customization-5e/blob/2.3.0/README.md",
-  "changelog": "https://github.com/schultzcole/FVTT-Skill-Customization-5e/blob/2.3.0/CHANGELOG.md"
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9.000",
+  "url": "https://github.com/SagaTympana/FVTT-Skill-Customization-5e",
+  "manifest": "https://raw.githubusercontent.com/SagaTympana/FVTT-Skill-Customization-5e/master/module.json",
+  "download": "https://github.com/SagaTympana/FVTT-Skill-Customization-5e/archive/2.3.1.zip",
+  "license": "https://github.com/SagaTympana/FVTT-Skill-Customization-5e/blob/2.3.1/LICENSE",
+  "readme": "https://github.com/SagaTympana/FVTT-Skill-Customization-5e/blob/2.3.1/README.md",
+  "changelog": "https://github.com/SagaTympana/FVTT-Skill-Customization-5e/blob/2.3.1/CHANGELOG.md"
 }
